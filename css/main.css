@@ -1,39 +1,27 @@
 /*
-  Global styles
+Project Name: HTML Template
+Client: Your Client
+Author: Your Name
+Developer: @poopsplat in Chicago
 */
 
+/******************************************
+/* BASE STYLES
+/*******************************************/
 body {
+  color: black;
   font-size: 16px;
+  background: white;
 }
 
-/* END Global Styles */
+/******************************************
+/* LAYOUT
+/*******************************************/
 
-/* 
-  Layout
- */
+/******************************************
+/* PAGES
+/*******************************************/
 
-/* END Layout */
-
-/* 
-  Site Header
- */
-
-/* END Site Header */
-
-/* 
-  Site Footer
- */
-
-/* END Site Footer */
-
-/* 
-  Pages
- */
-
-/* END Pages */
-
-/* 
-  Sections
- */
-
-/* END Sections */
+/******************************************
+/* SECTIONS
+/*******************************************/
