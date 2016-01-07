@@ -5,3 +5,4 @@ A simple starter template for us to use when we start new assignments or project
 
 The template uses the following resources:  
 * [Normalize.css](http://necolas.github.io/normalize.css/)
+* [jQuery](http://jquery.com)
